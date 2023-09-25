@@ -4,4 +4,5 @@
 ## Screenshots
 ![simple bg](screenshots/print1.png)
 ![nvim](screenshots/print2.png)
-![firefox](screenshots/print3.png)
+![firefox](https://github.com/iagozag/dotfiles/assets/56051881/dfb59912-2189-4ae9-ad64-6b7b8fff71e6)
+
