@@ -3,4 +3,4 @@
 
 ## Screenshots
 ![simple bg](screenshots/print1.png)
-![vim](screenshots/print2.png)
+![nvim](screenshots/print2.png)
