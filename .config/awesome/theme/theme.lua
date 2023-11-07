@@ -16,11 +16,11 @@ local theme         = {}
 theme.location      = "~/.config/awesome/theme/"
 theme.universalsize = 18
 -------------------------------------------------------------------------------------------------------------------
-theme.font_name  = "Roboto Mono Nerd Font "
+theme.font_name  = "Roboto Mono Nerd Font"
 theme.font_size  = theme.universalsize / 2
 theme.icon_theme = "Papirus-Dark"
 
-theme.wallpaper  = "/home/iago/.config/awesome/theme/wallpaper.png"
+theme.wallpaper  = "/home/.config/awesome/theme/wallpaper.png"
 
 theme.useless_gap       = dpi(3)
 theme.gap_single_client = true
