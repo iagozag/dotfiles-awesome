@@ -110,6 +110,9 @@ alias ..="cd .."
 # cd codes
 alias codes="cd ~/Documents/school/codes"
 
+# cd programmingSubjects
+alias prog="cd ~/Documents/school/ufmg/programmingSubjects"
+
 # remove
 alias rm="rm -i"
 
@@ -131,6 +134,10 @@ alias ips="ip -c -br a"
 # nvim
 alias v="nvim"
 alias vim="nvim"
+
+# competitive programming
+alias temp="cp ~/Documents/school/codes/temp.cpp"
+alias makecp="g++ -fsanitize=address,undefined -fno-omit-frame-pointer -g -Wall -Wshadow -std=c++20 -Wno-unused-result -Wno-sign-compare -Wno-char-subscripts -o main"
 
 # exa
 alias ls='exa -a --icons --group-directories-first' # just replace ls by exa and allow all other exa arguments
